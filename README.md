@@ -40,7 +40,8 @@ Instead, they get the objects that they need from an outside source
  
     }
 ```
-
+we take that the User class and MysqlDatabase inside the class Ioc. I just separate to be more clear, 
+but if you went running it you should put User and Mysql inside Ioc 
 ```java
   public class Ioc {
 
